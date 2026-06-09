@@ -8,6 +8,6 @@
   "server": {
     "ip": "anarchia.gg",
     "port": 25565,
-    "version": 1.21.4
+    "version": 1.21
   }
 }
